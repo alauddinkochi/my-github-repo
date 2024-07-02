@@ -4,5 +4,8 @@ div{
     margin: 30px;
     text-decoration: solid;
     text-align: center;
-    
+
+}
+.two{
+    background-image: url(Capture.PNG);
 }
